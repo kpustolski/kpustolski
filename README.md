@@ -1,5 +1,5 @@
 ## Hello there 👋
-My name is Katie and I'm a UI software engineer in Los Angeles, California.
+My name is Katie and I'm a software engineer in Los Angeles, California.
 
 - :star2: I currently work with Unity Game Engine and C# on a day to day basis, though I'm familiar with other languages as well (eg. HTML, CSS, JavaScript, C++) and have created small, web based applications in the past.
 - :star2: Feel free to check out my [portfolio website](https://www.katiepustolski.com/) to see some of the projects I've worked on. It's mostly design focused and goes into detail about processes behind each project.
